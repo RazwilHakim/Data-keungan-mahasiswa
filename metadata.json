@@ -1,0 +1,6 @@
+{
+  "name": "Keuangan Mahasiswa",
+  "description": "Aplikasi pencatatan keuangan, analisis pengeluaran bulanan, dan pengingat tagihan untuk mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
